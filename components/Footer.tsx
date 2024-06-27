@@ -15,13 +15,13 @@ export default function Footer() {
                             <div className="footer-col first">
                                 <div className="column-title">Company</div>
                                 <div className="footer-link-list">
-                                    <Link href="/careers" className="footer-link w-inline-block">
+                                    <Link href="/questions" className="footer-link w-inline-block">
                                         <div className="column-button">Questions</div>
                                     </Link>
-                                    <Link href="/droids" className="footer-link w-inline-block">
+                                    <Link href="/reviews" className="footer-link w-inline-block">
                                         <div className="column-button">Reviews</div>
                                     </Link>
-                                    <Link href="/enterprise" className="footer-link w-inline-block">
+                                    <Link href="/pricing" className="footer-link w-inline-block">
                                         <div className="column-button">Pricing</div>
                                     </Link>
                                 </div>
@@ -40,10 +40,10 @@ export default function Footer() {
                             <div className="footer-col">
                                 <div className="column-title">Social</div>
                                 <div className="footer-link-list">
-                                    <a href="https://twitter.com/FactoryAI" className="footer-link w-inline-block">
+                                    <a href="https://twitter.com/" className="footer-link w-inline-block">
                                         <div className="column-button">Twitter</div>
                                     </a>
-                                    <a href="https://www.linkedin.com/company/factory-hq" className="footer-link w-inline-block">
+                                    <a href="https://www.linkedin.com/" className="footer-link w-inline-block">
                                         <div className="column-button">LinkedIn</div>
                                     </a>
                                 </div>
