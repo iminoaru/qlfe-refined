@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="755.73" height="755.73" viewBox="0 0 755.73 755.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #353c44;
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Diagnol-Grey">
+    <g id="Lines_Grey" data-name="Lines Grey">
+      <path id="Rectangle-9" class="cls-1" d="M629.775,0h125.955L0,755.73v-125.955L629.775,0Z"/>
+      <path id="Rectangle-9-Copy" class="cls-1" d="M755.73,629.775v125.955h-125.955l125.955-125.955Z"/>
+    </g>
+  </g>
+</svg>
